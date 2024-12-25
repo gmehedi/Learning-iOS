@@ -10,3 +10,6 @@
 
 ##Design Patterns vs Architectural Patterns -> https://vikramios.medium.com/swift-design-patterns-vs-architectural-patterns-485353ebad72
 
+##Behavioral Design Pattern -> https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-ii-behavioral-design-pattern-5e4e5f13ccf7
+
+##Behavioral Design Patterns -> https://ahmadgsufi.medium.com/behavioral-design-patterns-ios-d233ca2bff29
