@@ -13,3 +13,9 @@
 ##Behavioral Design Pattern -> https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-ii-behavioral-design-pattern-5e4e5f13ccf7
 
 ##Behavioral Design Patterns -> https://ahmadgsufi.medium.com/behavioral-design-patterns-ios-d233ca2bff29
+
+##Creational Design Pattern -> https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f
+
+##Structural Design Patterns  -> https://mrkeithelliott.medium.com/design-patterns-structural-patterns-decorator-pattern-in-swift-3be819e7505e
+
+##Structural Design Patterns  -> https://ahmadgsufi.medium.com/structural-design-patterns-ios-428561488129
