@@ -8,5 +8,5 @@
 
 ##Architecture Patterns -> https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
 
-## Design Patterns vs Architectural Patterns -> https://vikramios.medium.com/swift-design-patterns-vs-architectural-patterns-485353ebad72
+##Design Patterns vs Architectural Patterns -> https://vikramios.medium.com/swift-design-patterns-vs-architectural-patterns-485353ebad72
 
