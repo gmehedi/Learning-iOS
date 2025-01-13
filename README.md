@@ -19,3 +19,8 @@
 ##Structural Design Patterns  -> https://mrkeithelliott.medium.com/design-patterns-structural-patterns-decorator-pattern-in-swift-3be819e7505e
 
 ##Structural Design Patterns  -> https://ahmadgsufi.medium.com/structural-design-patterns-ios-428561488129
+
+##Break Point
+https://dev.to/incodable/track-the-view-controllers-lifecycle-using-symbolic-breakpoints-in-xcode-1kn8
+
+https://developer.apple.com/documentation/xcode/setting-breakpoints-to-pause-your-running-app
